@@ -1,2 +1,4 @@
+Open it 
+go to multi tool zip
+run the file
 
-[multitool.zip](https://github.com/user-attachments/files/15962293/multitool.zip)
